@@ -1,16 +1,16 @@
 {
-        "name":"Viper Standard Boards",
+        "name":"Zerynth Standard Boards",
         "dependencies": {
-                "board.viper.particle_photon":"r0.3.1",
-                "board.viper.particle_core":"r0.3.1",
-                "board.viper.st_nucleof401re":"r0.3.1",
-                "board.viper.arduino_due":"r0.3.1",
-                "board.viper.udoo":"r0.3.1",
-                "vm.viper.particle_photon":"r0.3.1",
-                "vm.viper.particle_core":"r0.3.1",
-                "vm.viper.st_nucleof401re":"r0.3.1",
-                "vm.viper.arduino_due":"r0.3.1",
-                "vm.viper.udoo":"r0.3.1"
+                "board.zerynth.particle_photon":"r1.0.0",
+                "board.zerynth.particle_core":"r1.0.0",
+                "board.zerynth.st_nucleof401re":"r1.0.0",
+                "board.zerynth.arduino_due":"r1.0.0",
+                "board.zerynth.udoo":"r1.0.0",
+                "vm.zerynth.particle_photon":"r1.0.0",
+                "vm.zerynth.particle_core":"r1.0.0",
+                "vm.zerynth.st_nucleof401re":"r1.0.0",
+                "vm.zerynth.arduino_due":"r1.0.0",
+                "vm.zerynth.udoo":"r1.0.0"
         }
 }
 
