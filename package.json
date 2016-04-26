@@ -1,16 +1,18 @@
 {
         "name":"Zerynth Standard Boards",
         "dependencies": {
-                "board.zerynth.particle_photon":"r1.0.0",
-                "board.zerynth.particle_core":"r1.0.0",
-                "board.zerynth.st_nucleof401re":"r1.0.0",
-                "board.zerynth.arduino_due":"r1.0.0",
-                "board.zerynth.udoo":"r1.0.0",
-                "vm.zerynth.particle_photon":"r1.0.0",
-                "vm.zerynth.particle_core":"r1.0.0",
-                "vm.zerynth.st_nucleof401re":"r1.0.0",
-                "vm.zerynth.arduino_due":"r1.0.0",
-                "vm.zerynth.udoo":"r1.0.0"
+                "board.zerynth.particle_photon":"r1.0.5",
+                "board.zerynth.particle_core":"r1.0.5",
+                "board.zerynth.st_nucleof401re":"r1.0.5",
+                "board.zerynth.arduino_due":"r1.0.5",
+                "board.zerynth.flipncick_sam3x":"r1.0.5",
+                "board.zerynth.udoo":"r1.0.5",
+                "vm.zerynth.particle_photon":"r1.0.5",
+                "vm.zerynth.particle_core":"r1.0.5",
+                "vm.zerynth.st_nucleof401re":"r1.0.5",
+                "vm.zerynth.arduino_due":"r1.0.5",
+                "vm.zerynth.flipnclick_sam3x":"r1.0.5",
+                "vm.zerynth.udoo":"r1.0.5"
         }
 }
 
