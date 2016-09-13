@@ -12,7 +12,9 @@
                 "vm.zerynth.st_nucleof401re":"r1.0.5",
                 "vm.zerynth.arduino_due":"r1.0.5",
                 "vm.zerynth.flipnclick_sam3x":"r1.0.5",
-                "vm.zerynth.udoo":"r1.0.5"
+                "vm.zerynth.udoo":"r1.0.5",
+                "vm.zerynth.nodemcu2":"r1.0.13",
+                "vm.zerynth.mikroe_quail":"r1.0.0"
         }
 }
 
